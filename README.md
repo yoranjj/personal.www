@@ -1,0 +1,1 @@
+Old project that I still use. Essentially a post `/upload` endpoint screenshot uploader and hoster for personal use. Converts image file names to random 24 byte characters and has simple .env api key auth. Also serves the `/dist` folder which is a simple webpage on port `:80`.
